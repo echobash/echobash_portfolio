@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://echobash.com/sitemap.xml
